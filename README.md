@@ -1,1 +1,1 @@
-# wallet_transactional_system
+# Wallet Transactional System With Ruby on Rails
